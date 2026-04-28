@@ -1,0 +1,6 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export --path PATH:/home/afcc/\x2enpm\x2dglobal/bin\x1e/home/afcc/\x2enpm\x2dglobal/bin\x1e/home/afcc/\x2elocal/bin\x1e/home/afcc/\x2enpm\x2dglobal/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl
+SETUVAR __fish_initialized:4300
+SETUVAR fish_greeting:
+SETUVAR --export fish_user_paths:/home/afcc/\x2enpm\x2dglobal/bin\x1e/home/afcc/\x2elocal/bin
